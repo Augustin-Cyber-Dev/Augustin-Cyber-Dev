@@ -3,11 +3,15 @@
 </div>
 
 <div align="center">
-  <strong><em>• Desenvolvedor Backend em formação | Java & Spring Boot</em></strong>
+  <img src="badge_backend.png" alt="Badge Backend" />
 </div>
 
 ---
 
-- 🚀 Sou um estudante do curso de Ciências da Computação focado em **desenvolvimento backend**, apaixonado por tecnologia, dados e codar!
+- 🚀 Sou um estudante do curso de Ciências da Computação focado em **desenvolvimento backend**,
+   apaixonado por tecnologia, dados e codar!
+  
+
+- Gosto e sou fascinado em criar **aplicações relevantes** e **resolver problemas reais do cotidiano**!
 
 ---
