@@ -25,7 +25,7 @@
 
 - Acredito que um bom desenvolvedor não é só aquele que escreve código limpo, mas aquele que entende o problema antes de começar a resolver. Por isso me interesso tanto por arquitetura de software quanto por soluções que realmente façam diferença no dia a dia das pessoas.
 
-
+<img src="java_card.png" alt="Java Card" />
 
 </details>
 
