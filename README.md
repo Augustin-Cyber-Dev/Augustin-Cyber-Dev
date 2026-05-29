@@ -9,7 +9,7 @@
 ---
 
 - 🚀 Sou um estudante do curso de Ciências da Computação focado em **desenvolvimento backend**,
-   apaixonado por tecnologia, dados e codar!
+   apaixonado por tecnologia, dados e programar!
   
 
 - ⚡️ Gosto e sou fascinado em criar **aplicações relevantes** e **resolver problemas reais do cotidiano**!
