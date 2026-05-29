@@ -51,3 +51,9 @@
 
 </div>
 
+<div align="center">
+  <img src="lofi.gif" alt="Lofi Coder" width="600" />
+</div>
+
+---
+
