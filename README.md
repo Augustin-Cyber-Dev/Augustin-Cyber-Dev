@@ -51,9 +51,54 @@
 
 </div>
 
+---
+
+## 🗂️ Portfólio
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [🗺️ Descubra RP](https://github.com/Augustin-Cyber-Dev/descubra-rp) | Guia turístico digital de Ribeirão Preto com navegação multi-páginas, menu responsivo e seção de avaliações. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [🏢 Code Lab](https://github.com/Augustin-Cyber-Dev/code-lab) | Site institucional de empresa fictícia de desenvolvimento de software com página de equipe e formulário de contato. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| [🌱 Python Work](https://github.com/Augustin-Cyber-Dev/python-work) | Sistema de análise de resíduos sólidos no Brasil com dados do SINIR/MMA e gráficos interativos por estado e tipo de resíduo. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+
+---
+
 <div align="center">
   <img src="lofi.gif" alt="Lofi Coder" width="600" />
 </div>
 
 ---
 
+## 🔥 Habilidades
+
+#### 🔗 Linguagens de Programação
+
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+#### 🛠️ Ferramentas & Frameworks
+
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+#### 📚 Bibliotecas
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
+
+---
+
+## 📖 Filosofia
+
+> _"Código não é apenas sobre resolver problemas.  
+> É sobre construir soluções que escalam, duram e geram valor real."_
+
+---
+
+⭐ Se você gostou do meu trabalho, considere deixar uma estrela em algum repositório!
