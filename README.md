@@ -41,3 +41,12 @@
 
 ---
 
+<div align="center">
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Augustin-Cyber-Dev&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Augustin-Cyber-Dev&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Augustin-Cyber-Dev&theme=tokyonight&utcOffset=-3) |
+|:-:|:-:|:-:|
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Augustin-Cyber-Dev&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Augustin-Cyber-Dev&theme=tokyonight) |
+|:-:|:-:|
+
+</div>
