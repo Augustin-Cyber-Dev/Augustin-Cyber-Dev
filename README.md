@@ -102,3 +102,9 @@
 ---
 
 ⭐ Se você gostou do meu trabalho, considere deixar uma estrela em algum repositório!
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Augustin-Cyber-Dev/Augustin-Cyber-Dev/output/github-contribution-grid-snake-dark.svg" />
+</div>
